@@ -70,7 +70,7 @@ CURL_CFILES = \
   tool_getpass.c \
   tool_help.c \
   tool_helpers.c \
-  tool_homedir.c \
+  tool_findfile.c \
   tool_hugehelp.c \
   tool_libinfo.c \
   tool_listhelp.c \
