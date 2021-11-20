@@ -58,11 +58,11 @@ config file is checked for in the following places in this order:
 
 3) "$HOME/.curlrc"
 
-4) Windows: "%USERPROFILE%\\.curclrc"
+4) Windows: "%USERPROFILE%\\.curlrc"
 
 5) Windows: "%APPDATA%\\.curlrc"
 
-6) Windows: "%USERPROFILE%\\Application Data\\.curclrc"
+6) Windows: "%USERPROFILE%\\Application Data\\.curlrc"
 
 7) Non-windows: use getpwuid to find the home directory
 
